@@ -203,8 +203,6 @@ Display the contact email address set in the configuration file.
   	</a>
 </div>
 
-
-SURVEYS - DO NOT EDIT SURVEY LINKS 
 <h2 id="surveys">Surveys</h2>
 <p>Please be sure to complete following survey after the workshop.</p>
 <p><a href="https://forms.gle/he2c9yr1RYDKys9H9">Post-workshop Survey</a></p>
